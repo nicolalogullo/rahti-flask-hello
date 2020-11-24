@@ -41,7 +41,7 @@ PAGE = """
 
 # Default configuration
 defaults = {
-    "student": "??????",
+    "student": "you",
     "debug": False}
 
 config = {}
